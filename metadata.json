@@ -1,0 +1,6 @@
+{
+  "name": "Spectra Cyber Intelligence Platform",
+  "description": "Next-generation cyber threat operations, attack surface discovery, case management, and security infrastructure administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
